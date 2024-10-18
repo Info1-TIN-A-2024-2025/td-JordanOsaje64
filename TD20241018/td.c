@@ -51,5 +51,8 @@ int main(int argc, const char *argv[])
 	printf("j = %d\n",j);	//58
 	printf("i = %d\n",i);	//58
 
+	i = i +1;
+	i += 1;
+
 	return 0;
 }
